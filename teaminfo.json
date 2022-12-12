@@ -1,24 +1,30 @@
 {
     "team1": {
-        "name" : "team 1",
-        "avatar": "avatars/nearlyskillless.jpg"
+        "name" : "PinkHund",
+        "avatar": "avatars/pinkhund.png"
     },
     "team2": {
-        "name" : "team 2",
-        "avatar": "avatars/nearlyskillless.jpg"
+        "name" : "Tredo",
+        "avatar": "avatars/tredo.png"
     },
     "switch_teams": "0",
 
     "maps": {
         "1": {
-            "name": "Nuke",
+            "name": "de_cobble",
             "pick": "2",
             "win": "1",
-            "score": "16:14"
+            "score": "9-6"
         },
         "2": {
-            "name": "Inferno",
+            "name": "de_shortdust",
             "pick": "1",
+            "win": "2",
+            "score": "9-6"
+        },
+        "3": {
+            "name": "de_overpass",
+            "pick": "Decider",
             "win": "playing",
             "score": "-"
         }
